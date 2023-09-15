@@ -1,1 +1,1 @@
-export const API = "http://localhost:5001";
+export const API = "https://chat-app-backend-9daw.onrender.com/";
